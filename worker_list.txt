@@ -1,0 +1,6 @@
+01,Viktor,Pukin,123,c
+
+03,Denis,Valiev,789,a
+
+06,Alex,Petrov,456,b
+
